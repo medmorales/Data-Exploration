@@ -10,6 +10,5 @@ Address: The address of the property including its zip code. Listing by: The pro
 
 
 # Contents 
-`For Sale Analysis.py`: Data cleaning, exploration, and correlation study. 
-
-`for_sale.csv`: This file includes data on homes that were at the time listed on Zillow.com for sale, and includes their address, zip code, listing agent and their company, price per month, amount of bedrooms and bathrooms, the square footage of the property, the building type (condo, apartment, home), and the price per sq. ft.
+* `For Sale Analysis.py`: Data cleaning, exploration, and correlation study. 
+* `for_sale.csv`: This file includes data on homes that were at the time listed on Zillow.com for sale, and includes their address, zip code, listing agent and their company, price per month, amount of bedrooms and bathrooms, the square footage of the property, the building type (condo, apartment, home), and the price per sq. ft.
